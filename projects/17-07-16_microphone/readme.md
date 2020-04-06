@@ -1,4 +1,13 @@
-# Realtime Graphing of Microphone Audio with FFT Display using C# (Visual Studio 2017)
+# A newer version of this project is available:
+
+**View the newer project here:
+[18-09-19_microphone_FFT_revisited](https://github.com/swharden/Csharp-Data-Visualization/tree/master/projects/18-09-19_microphone_FFT_revisited)**
+
+---
+
+# This is the original project:
+
+**Realtime Graphing of Microphone Audio with FFT Display using C# (Visual Studio 2017)**
 
 ![](demo.gif)
 
